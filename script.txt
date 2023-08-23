@@ -1,0 +1,9 @@
+1. Passo - Tratar os dados na planilha. Eu removi algumas colunas irrelavantes para a minha análise de dados, como os "cd_mun_sit_biometria" "ds_mun_sit_biometria", ou seja, as colunas que não fazia sentido para a minha análise.
+
+2. Passo - Tratamento de Caracteres Especiais e Gramática Incorreta. usei a função do power query de limpeza de erros, limpeza de duplicatas.
+
+3. Passo - Padronização dos dados. assim como datas, códigos de municípios e etc para facilitar a análise de dados.
+
+4. Passo - Consistência dos Dados. verifiquei se os dados seguem o padrão logico. Por exemplo, se uma coluna corresponde a outra.
+
+5. obs. falhei na entrega do desafio, eu tentei ao maximo aplicar minhas habilidades com as ferramentas. Confesso que eu tive bastante dificuldade na hora de analisar os dados, gostaria de trazer alguns insights e dashboards com a ferramenta power BI, mas infelizmente não deu tempo, mas eu agradeço por me darem esse desafio, eu pude aprender bastante com ele  e até mesmo poder usar as ferramentas com mais frequência e adquirir mais conhecimentos. Bom, eu agradeço mais uma vez, espero que de alguma forma eu possa agregar um pouquinho e compartilhar do pouco que eu sei com vocês, estou no 2 semestre da faculdade de Banco de dados sei que ainda posso aprender bastante ao decorrer do tempo. obrigado pela atenção... ass: Vítor  
